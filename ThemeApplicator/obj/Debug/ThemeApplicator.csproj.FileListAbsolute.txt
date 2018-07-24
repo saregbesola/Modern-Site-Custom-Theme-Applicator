@@ -1,0 +1,4 @@
+c:\users\sunne\source\repos\ThemeApplicator\ThemeApplicator\bin\Debug\ThemeApplicator.pdb
+c:\users\sunne\source\repos\ThemeApplicator\ThemeApplicator\obj\Debug\ThemeApplicator.csproj.CoreCompileInputs.cache
+c:\users\sunne\source\repos\ThemeApplicator\ThemeApplicator\obj\Debug\ThemeApplicator.dll
+c:\users\sunne\source\repos\ThemeApplicator\ThemeApplicator\obj\Debug\ThemeApplicator.pdb

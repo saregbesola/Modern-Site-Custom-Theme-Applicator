@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6428fd9b-b2ab-4ed2-b1a8-54ebc58d5d9f" 
+        solutionId="6428fd9b-b2ab-4ed2-b1a8-54ebc58d5d9f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ThemeApplicator"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="5624eba3-67d2-42ce-b827-e8f87062bef4" />
+  </features>
+</package>
